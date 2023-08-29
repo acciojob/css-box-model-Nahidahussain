@@ -1,16 +1,8 @@
 
-/* .container{
+.container{
 			width : 300px;
 			border : 15px solid blue;
 	        padding : 50px;
 			background-color : lightblue;
 			margin : 20px ;	
-} */
-.container{
-	width:300px;
-	border:15px solid blue;
-	padding:50px;
-	background-color:lightblue;
-	margin:20px;
-	
-}
+} 
